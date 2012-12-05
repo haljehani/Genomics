@@ -1,0 +1,8 @@
+CreateMPWM.java
+This java class creates the position weight matrix (PWM) for the motifs(.ICext) file for any genome sequence.
+to run the file type:    java CreateMPWM filename
+and any compiler thats compile java classes must be installed
+
+shuffle2.sh
+This is a simple script written in bash which creates the background file for any genome sequence file (.fasta) to be used in many important genome processing.
+to run the file type: ./shuffle2
